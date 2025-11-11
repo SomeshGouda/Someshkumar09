@@ -103,7 +103,7 @@
 
 ---
 
-⭐ <b><i>"Learning by sharing — that’s how growth happens."</i></b>
+⭐ <b>"Learning by sharing — that’s how growth happens."</b>
 
 <br><br>
 
@@ -111,9 +111,6 @@
   🕉️ <b>Har Har Mahadev</b> 🔱
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200">
-</p>
 
 
 
