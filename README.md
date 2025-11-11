@@ -6,7 +6,7 @@
 
 <p align="center">
   🚀 Engineering | 💻 Data Enthusiast | 🎥 YouTuber <br>
-  Sharing projects, tutorials & real-world data insights.
+  <!Sharing projects, tutorials & real-world data insights.
 </p>
 
 ---
