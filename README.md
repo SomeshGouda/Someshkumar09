@@ -24,18 +24,13 @@
 <div align="center">
   <a href="https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q">
     <img src="https://i.ytimg.com/pl_c/PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q/studio_square_thumbnail.jpg?sqp=CIS6zcgG-oaymwEICKoDEPABSFqi85f_AwYIoY3IxwY=&rs=AOn4CLDBkchckd0C1by-Dw-Q3T5Fkeyjng" 
-         width="70%" alt="SQL Data Warehouse Playlist Thumbnail" />
+         width="70%" alt="My Youtube Edit Playlist Thumbnail" />
   </a>
 
   <br><br>
-
-  <br><br>
-
-  <br><br>
-  <br><br>
   
   🎯 **[Watch Full Playlist Here](https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q)**  
-  Learn how to build a complete **Data Warehouse Project** step by step.
+
 </div>
 
 ---
