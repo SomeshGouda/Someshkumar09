@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q">
-    <img src="https://img.youtube.com/vi/UZlq8-Da06A/maxresdefault.jpg" width="70%" alt="SQL Data Warehouse Playlist Thumbnail">
+    <img src="https://img.youtube.com/vi/UZlq8-Da06A/maxresdefault.jpg" width="70%" alt="Youtube Playlist Thumbnail">
   </a>
 
   <br><br>
