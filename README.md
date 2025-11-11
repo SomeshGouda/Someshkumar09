@@ -30,14 +30,6 @@
   🎥 <b>Click the YouTube icon to watch my full edited playlist</b>
 </div>
 
- <div align="center">
-
-  <a href="https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q" target="_blank">
-    <img src="https://img.icons8.com/color/96/youtube-play.png" width="60" alt="YouTube Playlist"/>
-  </a>
-
-  <br>
-  
 <div align="center">
 
   👆
